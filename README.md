@@ -1,2 +1,2 @@
 # Rancangan-Database-Teras
-<img src="" alt="Rancangan Database">
+<img src="./Teras.png" alt="Rancangan Database">
